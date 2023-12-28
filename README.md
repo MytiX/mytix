@@ -1,2 +1,2 @@
 ![Texte alternatif](https://github.com/MytiX/mytix/blob/master/Test.png)
-![Texte alternatif](https://github.com/MytiX/mytix/blob/master/giphy.gif)
+<img src="https://github.com/MytiX/mytix/blob/master/giphy.gif" width="100%" />
