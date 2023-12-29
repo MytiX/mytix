@@ -1,1 +1,1 @@
-![Banner](https://github.com/MytiX/mytix/blob/master/Banner.png)
+![Banner](https://github.com/MytiX/mytix/blob/master/banner.gif)
